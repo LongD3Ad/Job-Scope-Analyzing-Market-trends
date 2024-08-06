@@ -3,6 +3,7 @@
 https://public.tableau.com/app/profile/gagan.deep3264/viz/Dashboard_17208022718760/Home-Dashboard
 
 # Job Scope: Analyzing Market Trends
+![image](https://github.com/user-attachments/assets/96830997-8414-4b50-b2ff-d4bc318bd135)
 
 ## Project Overview
 This project, "Job Scope: Analyzing Market Trends," is a comprehensive analysis of job market trends using data scraped from naukri.com. Our team of four members - Wesley Sam Thomas, Gagan Deep, Chetan, and Kanva - collaborated to collect, clean, and visualize job market data, providing insights into current employment trends.
